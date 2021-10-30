@@ -1,7 +1,5 @@
-# hello-world
 
+# 🌎 Hello World
 
-Hello World!
-
-Apenas o começo de varios sonhos a realizar como desenvolvedor.
+Just the beginning of many dreams to fulfill as a developer.
 
